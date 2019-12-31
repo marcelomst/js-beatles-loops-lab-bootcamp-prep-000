@@ -15,7 +15,7 @@ function johnLennonFacts(facts){
   return facts
 }
 function iLoveTheBeatles(n){
-  if (n > 15)
+  if (n >= 15)
   var iLOveB = new Array(15 - n)
   do{ 
     
